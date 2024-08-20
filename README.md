@@ -77,9 +77,12 @@ Running the script will rename files in the directory as `file_1.ext`, `file_2.e
 
 ### 🎛️ Sample Interaction
 - **Before**:
-![preview](IMG_002.jpg) (IMG_003.jpg)
+![preview](IMG_002.jpg) 
+![preview](IMG_003.jpg)
 
-- - **After**: `file_1.jpg`, `file_2.jpg`, 
+- - **After**:
+![preview](file_1.jpg) 
+![preview](file_2.jpg)
 
 ## 🌟 Connect with Me
 
